@@ -9,6 +9,7 @@ Before starting, make sure you have Docker and Docker Compose installed.
 1. Clone the repository:
 
 -- git clone https://github.com/yourusername/image_recognition_microservice.git
+
 -- cd image_recognition_microservice
 
 2. Build the Docker image:
